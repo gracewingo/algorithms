@@ -1,2 +1,2 @@
 # algorithms-
-algorithms and programs from various: HackerRank, LeetCode, FreeCodeCamp, etc 
+algorithms and programs from various: HackerRank, LeetCode, FreeCodeCamp, and so forth. 
